@@ -1,0 +1,4962 @@
+(export 
+  (version "E") 
+  (design 
+    (source "C:\\Users\\user\\Documents\\KiCad\\Flight_Controler_old\\Flight_Controler_old.kicad_sch") 
+    (date "2024/11/04 8:02:43") 
+    (tool "Eeschema 7.0.10") 
+    (sheet 
+      (number "1") 
+      (name "/") 
+      (tstamps "/") 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source "Flight_Controler_old.kicad_sch") 
+        (comment 
+          (number "1") 
+          (value "")) 
+        (comment 
+          (number "2") 
+          (value "")) 
+        (comment 
+          (number "3") 
+          (value "")) 
+        (comment 
+          (number "4") 
+          (value "")) 
+        (comment 
+          (number "5") 
+          (value "")) 
+        (comment 
+          (number "6") 
+          (value "")) 
+        (comment 
+          (number "7") 
+          (value "")) 
+        (comment 
+          (number "8") 
+          (value "")) 
+        (comment 
+          (number "9") 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref "C1") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e35f9a9a-fc59-4728-9df7-2a5c081da9f7")) 
+    (comp 
+      (ref "C2") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d1f92243-198e-4f40-bc0f-20fc3db5dcdc")) 
+    (comp 
+      (ref "C3") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3c5ad1be-5c33-47f7-8727-b768ca8b7cd9")) 
+    (comp 
+      (ref "C4") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fd473400-60a5-403c-a82b-cf0bb6d8df62")) 
+    (comp 
+      (ref "C5") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "64f85ec3-56b3-4a0d-b295-ce0e3e91a343")) 
+    (comp 
+      (ref "C6") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "c7c40344-2265-41ba-a4b7-913a0a07481a")) 
+    (comp 
+      (ref "C7") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "53a38c08-b215-47c1-a7f3-c58c5c8607ab")) 
+    (comp 
+      (ref "C8") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0a3b0cf4-dc69-4beb-b07d-be98f377aab0")) 
+    (comp 
+      (ref "C9") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "156a8d2b-ada5-462a-9faf-3327b94b3ba8")) 
+    (comp 
+      (ref "C10") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "93b6ccf8-9d46-444b-b500-08889cea701f")) 
+    (comp 
+      (ref "C11") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b8ceffa1-0158-40df-87dc-144df9064eda")) 
+    (comp 
+      (ref "C12") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b2ffc9e0-5d77-4ca8-9134-b6dc43473c57")) 
+    (comp 
+      (ref "C13") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ff2fcaa8-b6af-470c-9904-8f5e10da5bb4")) 
+    (comp 
+      (ref "C14") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9590bf90-c331-4ee9-a8b4-ecd956acd9d3")) 
+    (comp 
+      (ref "C15") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "78717024-03f5-4d3f-9c31-b79571fa075f")) 
+    (comp 
+      (ref "C16") 
+      (value "C") 
+      (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm") 
+      (libsource 
+        (lib "Device") 
+        (part "C") 
+        (description "Unpolarized capacitor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Unpolarized capacitor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cap capacitor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "447ccc05-d5ee-4ff7-8992-3d1814793cd7")) 
+    (comp 
+      (ref "D1") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5b6171d8-8bd6-4377-9e24-6920cf1c5f65")) 
+    (comp 
+      (ref "D2") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4de35a51-0f67-45d3-aa33-ffa718aebad2")) 
+    (comp 
+      (ref "D3") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "42eb5859-72d2-4403-b763-1ced9abedfb7")) 
+    (comp 
+      (ref "D4") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a9de49dc-777a-47da-894e-c347c57ee19b")) 
+    (comp 
+      (ref "D5") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "afaf2425-1986-462e-8417-9185fb6b8fac")) 
+    (comp 
+      (ref "D6") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1477c3ba-a5be-4cec-b448-7540ad43868b")) 
+    (comp 
+      (ref "D7") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f990f856-e986-4e26-ad49-d4d914563395")) 
+    (comp 
+      (ref "D8") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "59fbe305-f291-4dc8-8ccc-2c8ae1b78324")) 
+    (comp 
+      (ref "D9") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f427d049-3f1e-4034-9577-16a1e40d768a")) 
+    (comp 
+      (ref "D10") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ff533c06-60c3-408d-82dd-1262e5b852a4")) 
+    (comp 
+      (ref "D11") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "14e53fc8-88e0-4c26-a60a-c85e0753c34f")) 
+    (comp 
+      (ref "D12") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6ddac1be-a7f9-4232-b1f8-f5708865351a")) 
+    (comp 
+      (ref "D13") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f2366b80-a7cf-44eb-ba3b-1c0ad22401f2")) 
+    (comp 
+      (ref "D14") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "37b24fb2-1e64-4e4d-ae01-333306028559")) 
+    (comp 
+      (ref "D15") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "7abea125-f2b9-4e89-bbfe-dff30c56b4fb")) 
+    (comp 
+      (ref "D16") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9782c1ed-bc59-49d3-bdef-a6e2b591cae1")) 
+    (comp 
+      (ref "D17") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f7f68cda-e3a2-4427-87d2-3bba1608b034")) 
+    (comp 
+      (ref "D18") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bd2ad197-8f18-4a62-b38b-36c45a342a4a")) 
+    (comp 
+      (ref "D19") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "00af632c-a1aa-4f74-989b-50dac5d22e69")) 
+    (comp 
+      (ref "D20") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "b3fe0671-227b-4fa6-beea-61d8cc9746b0")) 
+    (comp 
+      (ref "D21") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "61dd522a-b375-4aba-858e-6be3ecdac3d1")) 
+    (comp 
+      (ref "D22") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "81244bf8-9f58-4fa9-ac99-cc2c2a202eed")) 
+    (comp 
+      (ref "D23") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6d2ec5a9-ea0f-4ce9-ac77-bb7669cfab6c")) 
+    (comp 
+      (ref "D24") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4ccca9c7-66f6-4fcf-acea-43ecb608cb35")) 
+    (comp 
+      (ref "D25") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "eb89320c-ecb3-46ea-8cf1-05a5d24be232")) 
+    (comp 
+      (ref "D26") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "4d28db28-a56b-4bac-96bf-4c1b6b571f41")) 
+    (comp 
+      (ref "D27") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ef7885e9-a708-47fa-9a0d-67d54826cc1f")) 
+    (comp 
+      (ref "D28") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1650edda-6863-4a2c-abb3-4ae40642c792")) 
+    (comp 
+      (ref "D29") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "021b783a-25fc-42e3-9ac7-26bbf282a119")) 
+    (comp 
+      (ref "D30") 
+      (value "D") 
+      (footprint "Diode_THT:D_T-1_P5.08mm_Horizontal") 
+      (fields 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (libsource 
+        (lib "Device") 
+        (part "D") 
+        (description "Diode")) 
+      (property 
+        (name "Sim.Device") 
+        (value "D")) 
+      (property 
+        (name "Sim.Pins") 
+        (value "1=K 2=A")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Diode")) 
+      (property 
+        (name "ki_keywords") 
+        (value "diode")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "45b2e929-05dc-44d9-98bb-4ce13c544ea0")) 
+    (comp 
+      (ref "ENC1") 
+      (value "~") 
+      (footprint "etc:EC12PL Rotary Encoder EC12E24") 
+      (libsource 
+        (lib "Etc") 
+        (part "Rotary_Encoder_EC12E24") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9ff3084b-8a73-4898-b1f9-5f52f1e588f6")) 
+    (comp 
+      (ref "ENC2") 
+      (value "~") 
+      (footprint "etc:EC12PL Rotary Encoder EC12E24") 
+      (libsource 
+        (lib "Etc") 
+        (part "Rotary_Encoder_EC12E24") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0990a15f-10dd-48ff-8e1d-4e16e136eb37")) 
+    (comp 
+      (ref "ENC3") 
+      (value "~") 
+      (footprint "etc:EC12PL Rotary Encoder EC12E24") 
+      (libsource 
+        (lib "Etc") 
+        (part "Rotary_Encoder_EC12E24") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d245c2ff-8b71-4ea7-9104-3e43b437d94c")) 
+    (comp 
+      (ref "ENC4") 
+      (value "~") 
+      (footprint "etc:EC12PL Rotary Encoder EC12E24") 
+      (libsource 
+        (lib "Etc") 
+        (part "Rotary_Encoder_EC12E24") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9444d4f3-b3cc-43d8-8eea-76070c710b3e")) 
+    (comp 
+      (ref "ENC5") 
+      (value "~") 
+      (footprint "etc:Rotary Encoder Original Vertical") 
+      (libsource 
+        (lib "Etc") 
+        (part "Rotary_Encoder_Orignal_Vertival") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "246d351f-573b-494b-87cd-fa4a5a2cfea4")) 
+    (comp 
+      (ref "J1") 
+      (value "Conn_01x04") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x04") 
+        (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "ki_keywords") 
+        (value "connector")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d4b75ac3-0d63-4493-b38e-7252c2c98a55")) 
+    (comp 
+      (ref "J2") 
+      (value "Conn_01x03") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x03") 
+        (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "ki_keywords") 
+        (value "connector")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8e2a75d9-af80-4b49-8984-a3804137252e")) 
+    (comp 
+      (ref "J3") 
+      (value "Conn_01x06") 
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical") 
+      (libsource 
+        (lib "Connector_Generic") 
+        (part "Conn_01x06") 
+        (description "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)")) 
+      (property 
+        (name "ki_keywords") 
+        (value "connector")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "418193e1-52a7-4fad-9ce9-fa048e0da559")) 
+    (comp 
+      (ref "R1") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "21993484-4755-42bb-8d42-0054e1bc1a6f")) 
+    (comp 
+      (ref "R2") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "04eee396-88c0-4227-996a-15a59fce6010")) 
+    (comp 
+      (ref "R3") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6c90cf1c-1ea6-426a-9dc3-dfa88277a8f6")) 
+    (comp 
+      (ref "R4") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "61ed73d9-62b4-4eab-aca1-543a311357bd")) 
+    (comp 
+      (ref "R5") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "843056ea-c546-4b35-b122-70afc644ab89")) 
+    (comp 
+      (ref "R6") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8dce64d8-7326-4597-af57-c7cc07becf12")) 
+    (comp 
+      (ref "R7") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "bc11e737-6097-474b-ad09-6315a96aa557")) 
+    (comp 
+      (ref "R8") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "a8ba0989-4585-4e3a-a205-f451bd2c2284")) 
+    (comp 
+      (ref "R9") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "eae59072-b96e-4af2-b534-49b9f924dea5")) 
+    (comp 
+      (ref "R10") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "2831f702-ae48-46ae-ae68-42a399129689")) 
+    (comp 
+      (ref "R11") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8c936b45-b453-4d5d-8e9b-961e169a718c")) 
+    (comp 
+      (ref "R12") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d97d391a-52da-4e28-98a1-4faee15a3def")) 
+    (comp 
+      (ref "R13") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "89542970-4629-47e1-94e0-67cd1a33b5ed")) 
+    (comp 
+      (ref "R14") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9d96c662-438c-4a8c-a505-101d90d28ac7")) 
+    (comp 
+      (ref "R15") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "43e68e8f-d3d7-4e20-9a41-a5b46b50b21d")) 
+    (comp 
+      (ref "R16") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "e91ad4f2-dcc3-4244-bd42-08da1fce87c4")) 
+    (comp 
+      (ref "R17") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "0e4e9ac0-e6b3-48de-8302-1c347c83b8b6")) 
+    (comp 
+      (ref "R18") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d8a6f686-805a-4250-b0a0-21e811252a47")) 
+    (comp 
+      (ref "R19") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f01e0574-4e12-4336-a98f-891eb5c33e27")) 
+    (comp 
+      (ref "R20") 
+      (value "R") 
+      (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal") 
+      (libsource 
+        (lib "Device") 
+        (part "R") 
+        (description "Resistor")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Resistor")) 
+      (property 
+        (name "ki_keywords") 
+        (value "R res resistor")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ca0f1c74-a276-45d3-b681-2b58a54498cf")) 
+    (comp 
+      (ref "RV1") 
+      (value "R_Potentiometer_Trim_US") 
+      (footprint "etc:Slid_Volume_SL4515N") 
+      (libsource 
+        (lib "Device") 
+        (part "R_Potentiometer_Trim_US") 
+        (description "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "ki_keywords") 
+        (value "resistor variable trimpot trimmer")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "5644c8bc-adf9-4841-8e8a-4a6fee208c81")) 
+    (comp 
+      (ref "RV2") 
+      (value "R_Potentiometer_Trim_US") 
+      (footprint "etc:Slid_Volume_SL4515N") 
+      (libsource 
+        (lib "Device") 
+        (part "R_Potentiometer_Trim_US") 
+        (description "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "ki_keywords") 
+        (value "resistor variable trimpot trimmer")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "69cd21fa-f210-4079-b773-a6a13129f6c2")) 
+    (comp 
+      (ref "RV3") 
+      (value "R_Potentiometer_Trim_US") 
+      (footprint "etc:Slid_Volume_SL4515N") 
+      (libsource 
+        (lib "Device") 
+        (part "R_Potentiometer_Trim_US") 
+        (description "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "ki_keywords") 
+        (value "resistor variable trimpot trimmer")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "3b960b64-86bf-415f-97aa-5b3e3a220710")) 
+    (comp 
+      (ref "RV4") 
+      (value "R_Potentiometer_Trim_US") 
+      (footprint "etc:ALPS Rotary Potentiometer RK09K11300DR") 
+      (libsource 
+        (lib "Device") 
+        (part "R_Potentiometer_Trim_US") 
+        (description "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Trim-potentiometer, US symbol")) 
+      (property 
+        (name "ki_keywords") 
+        (value "resistor variable trimpot trimmer")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d52753da-caef-4970-81c3-a9075309910b")) 
+    (comp 
+      (ref "SW1") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9511aa55-1b58-4f70-b381-0d87632f63c7")) 
+    (comp 
+      (ref "SW2") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f8fa62f6-670c-45f9-8907-52ef27139511")) 
+    (comp 
+      (ref "SW3") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "d453f609-a615-4c37-b60f-7c6ffb73e9f8")) 
+    (comp 
+      (ref "SW4") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "22159138-fead-4ad9-8e8b-f371a7c2b6a9")) 
+    (comp 
+      (ref "SW5") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "ada0c678-9668-4b19-89b3-d698b09ec5e6")) 
+    (comp 
+      (ref "SW6") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "35356f75-c442-482a-bf69-dbc9edd84e53")) 
+    (comp 
+      (ref "SW7") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "63da5ff7-af83-4fee-92ec-aa1e79c955b6")) 
+    (comp 
+      (ref "SW8") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "174de48c-1e4a-4caf-afeb-c9d1128b4afe")) 
+    (comp 
+      (ref "SW9") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "064842a7-c603-4358-b5f0-53797dbdcc3c")) 
+    (comp 
+      (ref "SW10") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "52fb87f5-ba61-4276-a9c1-f5b3e004fd85")) 
+    (comp 
+      (ref "SW11") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "329dc21e-c03c-4ed5-b087-21ab77f3882a")) 
+    (comp 
+      (ref "SW12") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "95cf4a44-885c-4a37-adf9-6f5a0cabb876")) 
+    (comp 
+      (ref "SW13") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fa196154-53a1-4c75-bff0-343b65076d6e")) 
+    (comp 
+      (ref "SW14") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "9452e300-ce40-4e19-b2c1-3beafe807c3b")) 
+    (comp 
+      (ref "SW15") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "04036981-5c90-4a6e-9298-da9733c39477")) 
+    (comp 
+      (ref "SW16") 
+      (value "Cherry MX") 
+      (footprint "etc:SW_Cherry_MX_1.00u_PCB") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "f9586104-0ca9-429a-8a0c-06f0d58eac94")) 
+    (comp 
+      (ref "SW17") 
+      (value "SW_SPDT") 
+      (footprint "etc:Switch Toggle SPDT 3P-P2.54 Vertical with Fixpin") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_SPDT") 
+        (description "Switch, single pole double throw")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Switch, single pole double throw")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch single-pole double-throw spdt ON-ON")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fb7c78d2-b3c7-4112-b8f8-e08e14eb20f8")) 
+    (comp 
+      (ref "SW18") 
+      (value "SW_SPDT") 
+      (footprint "etc:Switch Toggle SPDT 3P-P2.54 with Fixpin") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_SPDT") 
+        (description "Switch, single pole double throw")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Switch, single pole double throw")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch single-pole double-throw spdt ON-ON")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "983589f4-d5fb-493a-805f-6580d9aeeb70")) 
+    (comp 
+      (ref "SW19") 
+      (value "SW_SPDT_NONLOCK") 
+      (footprint "etc:Switch Toggle SPDT 3P-P4.7") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_SPDT") 
+        (description "Switch, single pole double throw")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Switch, single pole double throw")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch single-pole double-throw spdt ON-ON")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "8f311def-2741-4885-a951-313c9d5e50ed")) 
+    (comp 
+      (ref "SW20") 
+      (value "SW_SPDT_NONLOCK") 
+      (footprint "etc:Switch Toggle SPDT 3P-P4.7") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_SPDT") 
+        (description "Switch, single pole double throw")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Switch, single pole double throw")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch single-pole double-throw spdt ON-ON")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "82b0d7eb-b015-4a1b-8eb5-fce7c5126e17")) 
+    (comp 
+      (ref "SW25") 
+      (value "SW_Push") 
+      (footprint "Button_Switch_THT:SW_PUSH_6mm") 
+      (libsource 
+        (lib "Switch") 
+        (part "SW_Push") 
+        (description "Push button switch, generic, two pins")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Push button switch, generic, two pins")) 
+      (property 
+        (name "ki_keywords") 
+        (value "switch normally-open pushbutton push-button")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "68aea178-507e-4993-8dbe-a556b6994dc3")) 
+    (comp 
+      (ref "TP1") 
+      (value "TestPoint") 
+      (footprint "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm") 
+      (libsource 
+        (lib "Connector") 
+        (part "TestPoint") 
+        (description "test point")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "test point")) 
+      (property 
+        (name "ki_keywords") 
+        (value "test point tp")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "fb302cde-abde-4468-90cf-fba8baa3794e")) 
+    (comp 
+      (ref "U1") 
+      (value "RP2040-ZERO") 
+      (footprint "etc:RP2040-ZERO") 
+      (libsource 
+        (lib "Etc") 
+        (part "RP2040-ZERO") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "74b5075b-fc09-4950-b458-f4db2cad0699")) 
+    (comp 
+      (ref "U2") 
+      (value "LM393") 
+      (footprint "Package_DIP:DIP-8_W7.62mm") 
+      (datasheet "http://www.ti.com/lit/ds/symlink/lm393.pdf") 
+      (libsource 
+        (lib "Comparator") 
+        (part "LM393") 
+        (description "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8")) 
+      (property 
+        (name "ki_keywords") 
+        (value "cmp open collector")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "896465be-86d6-48cc-b9a7-1de86e7d8868" "5602b239-7bc7-4e7d-bd20-ac2f06bf0865" "3194a5fc-4bf1-4870-911a-278280aa22cc")) 
+    (comp 
+      (ref "U3") 
+      (value "MCP3008") 
+      (footprint "Package_DIP:DIP-16_W7.62mm") 
+      (datasheet "http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf") 
+      (libsource 
+        (lib "Analog_ADC") 
+        (part "MCP3008") 
+        (description "A/D Converter, 10-Bit, 8-Channel, SPI Interface , 2.7V-5.5V")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (property 
+        (name "ki_description") 
+        (value "A/D Converter, 10-Bit, 8-Channel, SPI Interface , 2.7V-5.5V")) 
+      (property 
+        (name "ki_keywords") 
+        (value "12bit ADC Reference Single Supply SPI 8CH")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "6ff2810c-bbaf-41ec-98a5-4a130ab5de37")) 
+    (comp 
+      (ref "U4") 
+      (value "REF***") 
+      (footprint "etc:Hole_IC") 
+      (libsource 
+        (lib "Etc") 
+        (part "Hole_IC") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "1f5becdb-44a6-407c-8913-53de5f160120")) 
+    (comp 
+      (ref "U5") 
+      (value "REF***") 
+      (footprint "etc:Hole_IC") 
+      (libsource 
+        (lib "Etc") 
+        (part "Hole_IC") 
+        (description "")) 
+      (property 
+        (name "Sheetname") 
+        (value "")) 
+      (property 
+        (name "Sheetfile") 
+        (value "Flight_Controler_old.kicad_sch")) 
+      (sheetpath 
+        (names "/") 
+        (tstamps "/")) 
+      (tstamps "23901670-ab76-434e-80b4-4736afe8ad28"))) 
+  (libparts 
+    (libpart 
+      (lib "Analog_ADC") 
+      (part "MCP3008") 
+      (description "A/D Converter, 10-Bit, 8-Channel, SPI Interface , 2.7V-5.5V") 
+      (docs "http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf") 
+      (footprints 
+        (fp "DIP*W7.62mm*") 
+        (fp "SOIC*3.9x9.9mm*P1.27mm*")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "MCP3008") 
+        (field 
+          (name "Datasheet") "http://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "CH0") 
+          (type "input")) 
+        (pin 
+          (num "2") 
+          (name "CH1") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "CH2") 
+          (type "input")) 
+        (pin 
+          (num "4") 
+          (name "CH3") 
+          (type "input")) 
+        (pin 
+          (num "5") 
+          (name "CH4") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "CH5") 
+          (type "input")) 
+        (pin 
+          (num "7") 
+          (name "CH6") 
+          (type "input")) 
+        (pin 
+          (num "8") 
+          (name "CH7") 
+          (type "input")) 
+        (pin 
+          (num "9") 
+          (name "DGND") 
+          (type "power_in")) 
+        (pin 
+          (num "10") 
+          (name "~{CS}/SHDN") 
+          (type "input")) 
+        (pin 
+          (num "11") 
+          (name "Din") 
+          (type "input")) 
+        (pin 
+          (num "12") 
+          (name "Dout") 
+          (type "output")) 
+        (pin 
+          (num "13") 
+          (name "CLK") 
+          (type "input")) 
+        (pin 
+          (num "14") 
+          (name "AGND") 
+          (type "power_in")) 
+        (pin 
+          (num "15") 
+          (name "Vref") 
+          (type "power_in")) 
+        (pin 
+          (num "16") 
+          (name "Vdd") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Comparator") 
+      (part "LM393") 
+      (description "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8") 
+      (docs "http://www.ti.com/lit/ds/symlink/lm393.pdf") 
+      (footprints 
+        (fp "SOIC*3.9x4.9mm*P1.27mm*") 
+        (fp "DIP*W7.62mm*") 
+        (fp "SOP*5.28x5.23mm*P1.27mm*") 
+        (fp "VSSOP*3.0x3.0mm*P0.65mm*") 
+        (fp "TSSOP*4.4x3mm*P0.65mm*")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "LM393") 
+        (field 
+          (name "Datasheet") "http://www.ti.com/lit/ds/symlink/lm393.pdf")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "open_collector")) 
+        (pin 
+          (num "2") 
+          (name "-") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "+") 
+          (type "input")) 
+        (pin 
+          (num "4") 
+          (name "V-") 
+          (type "power_in")) 
+        (pin 
+          (num "5") 
+          (name "+") 
+          (type "input")) 
+        (pin 
+          (num "6") 
+          (name "-") 
+          (type "input")) 
+        (pin 
+          (num "7") 
+          (name "") 
+          (type "open_collector")) 
+        (pin 
+          (num "8") 
+          (name "V+") 
+          (type "power_in")))) 
+    (libpart 
+      (lib "Connector") 
+      (part "TestPoint") 
+      (description "test point") 
+      (docs "~") 
+      (footprints 
+        (fp "Pin*") 
+        (fp "Test*")) 
+      (fields 
+        (field 
+          (name "Reference") "TP") 
+        (field 
+          (name "Value") "TestPoint") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x03") 
+      (description "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x03") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x04") 
+      (description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x04") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "Pin_4") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Connector_Generic") 
+      (part "Conn_01x06") 
+      (description "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)") 
+      (docs "~") 
+      (footprints 
+        (fp "Connector*:*_1x??_*")) 
+      (fields 
+        (field 
+          (name "Reference") "J") 
+        (field 
+          (name "Value") "Conn_01x06") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Pin_1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "Pin_2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "Pin_3") 
+          (type "passive")) 
+        (pin 
+          (num "4") 
+          (name "Pin_4") 
+          (type "passive")) 
+        (pin 
+          (num "5") 
+          (name "Pin_5") 
+          (type "passive")) 
+        (pin 
+          (num "6") 
+          (name "Pin_6") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "C") 
+      (description "Unpolarized capacitor") 
+      (docs "~") 
+      (footprints 
+        (fp "C_*")) 
+      (fields 
+        (field 
+          (name "Reference") "C") 
+        (field 
+          (name "Value") "C") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "D") 
+      (description "Diode") 
+      (docs "~") 
+      (footprints 
+        (fp "TO-???*") 
+        (fp "*_Diode_*") 
+        (fp "*SingleDiode*") 
+        (fp "D_*")) 
+      (fields 
+        (field 
+          (name "Reference") "D") 
+        (field 
+          (name "Value") "D") 
+        (field 
+          (name "Datasheet") "~") 
+        (field 
+          (name "Sim.Device") "D") 
+        (field 
+          (name "Sim.Pins") "1=K 2=A")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "K") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "A") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "R") 
+      (description "Resistor") 
+      (docs "~") 
+      (footprints 
+        (fp "R_*")) 
+      (fields 
+        (field 
+          (name "Reference") "R") 
+        (field 
+          (name "Value") "R") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Device") 
+      (part "R_Potentiometer_Trim_US") 
+      (description "Trim-potentiometer, US symbol") 
+      (docs "~") 
+      (footprints 
+        (fp "Potentiometer*")) 
+      (fields 
+        (field 
+          (name "Reference") "RV") 
+        (field 
+          (name "Value") "R_Potentiometer_Trim_US") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "3") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Etc") 
+      (part "Hole_IC") 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "REF***") 
+        (field 
+          (name "Footprint") "etc:Hole_IC")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "Vcc") 
+          (type "power_in")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_in")) 
+        (pin 
+          (num "3") 
+          (name "Out") 
+          (type "output")))) 
+    (libpart 
+      (lib "Etc") 
+      (part "RP2040-ZERO") 
+      (footprints 
+        (fp "etc")) 
+      (fields 
+        (field 
+          (name "Reference") "U") 
+        (field 
+          (name "Value") "RP2040-ZERO")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "5V") 
+          (type "power_out")) 
+        (pin 
+          (num "2") 
+          (name "GND") 
+          (type "power_out")) 
+        (pin 
+          (num "3") 
+          (name "3V3") 
+          (type "power_out")) 
+        (pin 
+          (num "4") 
+          (name "GP29/ADC3") 
+          (type "bidirectional")) 
+        (pin 
+          (num "5") 
+          (name "GP28/ADC2") 
+          (type "bidirectional")) 
+        (pin 
+          (num "6") 
+          (name "GP27/ADC1/I2C1_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "7") 
+          (name "GP26/ADC0/I2C1_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "8") 
+          (name "GP15/SPI1_TX/I2C1_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "9") 
+          (name "GP14/SPI1_SCK/I2C1_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "10") 
+          (name "GP13/SPI1_CSn/I2C0_SCL/UART0_RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "11") 
+          (name "GP12/SPI1_RX/I2C0_SDA/UART0_TX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "12") 
+          (name "GP11/SPI1_TX/I2C1_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "13") 
+          (name "GP10/SPI1_SCK/I2C1_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "14") 
+          (name "GP9/SPI1_CSn/I2C0_SCL/UART1_RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "15") 
+          (name "GP8/SPI1_RX/I2C0_SDA/UART1_TX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "16") 
+          (name "GP7/SPI0_TX/I2C1_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "17") 
+          (name "GP6/SPI0_SCK/I2C1_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "18") 
+          (name "GP5/SPI0_CSn/I2C0_SCL/UART1_RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "19") 
+          (name "GP4/SPI0_RX/I2C0_SDA/UART1_TX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "20") 
+          (name "GP3/SPI0_TX/I2C1_SCL") 
+          (type "bidirectional")) 
+        (pin 
+          (num "21") 
+          (name "GP2/SPI0_SCK/I2C1_SDA") 
+          (type "bidirectional")) 
+        (pin 
+          (num "22") 
+          (name "GP1/SPI0_CSn/I2C0_SCL/UART0_RX") 
+          (type "bidirectional")) 
+        (pin 
+          (num "23") 
+          (name "GP0/SPI0_RX/I2C0_SDA/UART0_TX") 
+          (type "bidirectional")))) 
+    (libpart 
+      (lib "Etc") 
+      (part "Rotary_Encoder_EC12E24") 
+      (fields 
+        (field 
+          (name "Reference") "U")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "output")) 
+        (pin 
+          (num "2") 
+          (name "C") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "B") 
+          (type "output")))) 
+    (libpart 
+      (lib "Etc") 
+      (part "Rotary_Encoder_Orignal_Vertival") 
+      (fields 
+        (field 
+          (name "Reference") "ENC")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "output")) 
+        (pin 
+          (num "2") 
+          (name "C") 
+          (type "input")) 
+        (pin 
+          (num "3") 
+          (name "B") 
+          (type "output")))) 
+    (libpart 
+      (lib "Switch") 
+      (part "SW_Push") 
+      (description "Push button switch, generic, two pins") 
+      (docs "~") 
+      (fields 
+        (field 
+          (name "Reference") "SW") 
+        (field 
+          (name "Value") "SW_Push") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "1") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "2") 
+          (type "passive")))) 
+    (libpart 
+      (lib "Switch") 
+      (part "SW_SPDT") 
+      (description "Switch, single pole double throw") 
+      (docs "~") 
+      (fields 
+        (field 
+          (name "Reference") "SW") 
+        (field 
+          (name "Value") "SW_SPDT") 
+        (field 
+          (name "Datasheet") "~")) 
+      (pins 
+        (pin 
+          (num "1") 
+          (name "A") 
+          (type "passive")) 
+        (pin 
+          (num "2") 
+          (name "B") 
+          (type "passive")) 
+        (pin 
+          (num "3") 
+          (name "C") 
+          (type "passive"))))) 
+  (libraries 
+    (library 
+      (logical "Analog_ADC") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Analog_ADC.kicad_sym")) 
+    (library 
+      (logical "Comparator") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Comparator.kicad_sym")) 
+    (library 
+      (logical "Connector") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Connector.kicad_sym")) 
+    (library 
+      (logical "Connector_Generic") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Connector_Generic.kicad_sym")) 
+    (library 
+      (logical "Device") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Device.kicad_sym")) 
+    (library 
+      (logical "Etc") 
+      (uri "C:/Users/user/Documents/KiCad/7.0/symbols/Etc.kicad_sym")) 
+    (library 
+      (logical "Switch") 
+      (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Switch.kicad_sym"))) 
+  (nets 
+    (net 
+      (code "1") 
+      (name "+3V3") 
+      (node 
+        (ref "C1") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C15") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C3") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C4") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "C5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J1") 
+        (pin "4") 
+        (pinfunction "Pin_4") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "J3") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R10") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R14") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R15") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV1") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV2") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV3") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV4") 
+        (pin "3") 
+        (pinfunction "3") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "3") 
+        (pinfunction "3V3") 
+        (pintype "power_out")) 
+      (node 
+        (ref "U2") 
+        (pin "8") 
+        (pinfunction "V+") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "15") 
+        (pinfunction "Vref") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "16") 
+        (pinfunction "Vdd") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U4") 
+        (pin "1") 
+        (pinfunction "Vcc") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U5") 
+        (pin "1") 
+        (pinfunction "Vcc") 
+        (pintype "power_in"))) 
+    (net 
+      (code "2") 
+      (name "+5V") 
+      (node 
+        (ref "C2") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "1") 
+        (pinfunction "5V") 
+        (pintype "power_out"))) 
+    (net 
+      (code "3") 
+      (name "/ADC_AILRON") 
+      (node 
+        (ref "C16") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R20") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "5") 
+        (pinfunction "CH4") 
+        (pintype "input"))) 
+    (net 
+      (code "4") 
+      (name "/ADC_AIR_BRAKE") 
+      (node 
+        (ref "C11") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R19") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "8") 
+        (pinfunction "CH7") 
+        (pintype "input"))) 
+    (net 
+      (code "5") 
+      (name "/ADC_BRAKE_L") 
+      (node 
+        (ref "C7") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "3") 
+        (pinfunction "CH2") 
+        (pintype "input"))) 
+    (net 
+      (code "6") 
+      (name "/ADC_BRAKE_R") 
+      (node 
+        (ref "C6") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "4") 
+        (pinfunction "CH3") 
+        (pintype "input"))) 
+    (net 
+      (code "7") 
+      (name "/ADC_FLAP") 
+      (node 
+        (ref "C13") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R17") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "6") 
+        (pinfunction "CH5") 
+        (pintype "input"))) 
+    (net 
+      (code "8") 
+      (name "/ADC_RUDDER_L") 
+      (node 
+        (ref "C9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "1") 
+        (pinfunction "CH0") 
+        (pintype "input"))) 
+    (net 
+      (code "9") 
+      (name "/ADC_RUDDER_R") 
+      (node 
+        (ref "C8") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "2") 
+        (pinfunction "CH1") 
+        (pintype "input"))) 
+    (net 
+      (code "10") 
+      (name "/ADC_THROTTLE") 
+      (node 
+        (ref "C12") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R18") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U3") 
+        (pin "7") 
+        (pinfunction "CH6") 
+        (pintype "input"))) 
+    (net 
+      (code "11") 
+      (name "/ADC_TILLER") 
+      (node 
+        (ref "C14") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R16") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "7") 
+        (pinfunction "GP26/ADC0/I2C1_SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "12") 
+      (name "/COL0") 
+      (node 
+        (ref "D21") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "D29") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW17") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW9") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "23") 
+        (pinfunction "GP0/SPI0_RX/I2C0_SDA/UART0_TX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "13") 
+      (name "/COL1") 
+      (node 
+        (ref "D25") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "D30") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW10") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW18") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "22") 
+        (pinfunction "GP1/SPI0_CSn/I2C0_SCL/UART0_RX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "14") 
+      (name "/COL2") 
+      (node 
+        (ref "D22") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW11") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW19") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "21") 
+        (pinfunction "GP2/SPI0_SCK/I2C1_SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "15") 
+      (name "/COL3") 
+      (node 
+        (ref "D26") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW12") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW20") 
+        (pin "2") 
+        (pinfunction "B") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "20") 
+        (pinfunction "GP3/SPI0_TX/I2C1_SCL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "16") 
+      (name "/COL4") 
+      (node 
+        (ref "D23") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW13") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW5") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "19") 
+        (pinfunction "GP4/SPI0_RX/I2C0_SDA/UART1_TX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "17") 
+      (name "/COL5") 
+      (node 
+        (ref "D27") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW14") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW6") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "18") 
+        (pinfunction "GP5/SPI0_CSn/I2C0_SCL/UART1_RX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "18") 
+      (name "/COL6") 
+      (node 
+        (ref "D24") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW15") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW7") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "17") 
+        (pinfunction "GP6/SPI0_SCK/I2C1_SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "19") 
+      (name "/COL7") 
+      (node 
+        (ref "D28") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW16") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW8") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "16") 
+        (pinfunction "GP7/SPI0_TX/I2C1_SCL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "20") 
+      (name "/ELEVATOR_0") 
+      (node 
+        (ref "R12") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R14") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "6") 
+        (pinfunction "GP27/ADC1/I2C1_SCL") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "1") 
+        (pintype "open_collector"))) 
+    (net 
+      (code "21") 
+      (name "/ELEVATOR_1") 
+      (node 
+        (ref "R13") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R15") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "5") 
+        (pinfunction "GP28/ADC2") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U2") 
+        (pin "7") 
+        (pintype "open_collector"))) 
+    (net 
+      (code "22") 
+      (name "/ELEVATOR_ZERO") 
+      (node 
+        (ref "R5") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "4") 
+        (pinfunction "GP29/ADC3") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "23") 
+      (name "/ROW0") 
+      (node 
+        (ref "D1") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D2") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D3") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D4") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D5") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D6") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D7") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D8") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "15") 
+        (pinfunction "GP8/SPI1_RX/I2C0_SDA/UART1_TX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "24") 
+      (name "/ROW1") 
+      (node 
+        (ref "D10") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D11") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D12") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D13") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D14") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D15") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D16") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D9") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "14") 
+        (pinfunction "GP9/SPI1_CSn/I2C0_SCL/UART1_RX") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "25") 
+      (name "/ROW2") 
+      (node 
+        (ref "D17") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D18") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D19") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "D20") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC5") 
+        (pin "2") 
+        (pinfunction "C") 
+        (pintype "input")) 
+      (node 
+        (ref "U1") 
+        (pin "13") 
+        (pinfunction "GP10/SPI1_SCK/I2C1_SDA") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "26") 
+      (name "/ROW3") 
+      (node 
+        (ref "ENC1") 
+        (pin "2") 
+        (pinfunction "C") 
+        (pintype "input")) 
+      (node 
+        (ref "ENC2") 
+        (pin "2") 
+        (pinfunction "C") 
+        (pintype "input")) 
+      (node 
+        (ref "ENC3") 
+        (pin "2") 
+        (pinfunction "C") 
+        (pintype "input")) 
+      (node 
+        (ref "ENC4") 
+        (pin "2") 
+        (pinfunction "C") 
+        (pintype "input")) 
+      (node 
+        (ref "U1") 
+        (pin "12") 
+        (pinfunction "GP11/SPI1_TX/I2C1_SCL") 
+        (pintype "bidirectional"))) 
+    (net 
+      (code "27") 
+      (name "/SPI_CLK") 
+      (node 
+        (ref "U1") 
+        (pin "9") 
+        (pinfunction "GP14/SPI1_SCK/I2C1_SDA") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "13") 
+        (pinfunction "CLK") 
+        (pintype "input"))) 
+    (net 
+      (code "28") 
+      (name "/SPI_CS") 
+      (node 
+        (ref "U1") 
+        (pin "10") 
+        (pinfunction "GP13/SPI1_CSn/I2C0_SCL/UART0_RX") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "10") 
+        (pinfunction "~{CS}/SHDN") 
+        (pintype "input"))) 
+    (net 
+      (code "29") 
+      (name "/SPI_MISO") 
+      (node 
+        (ref "U1") 
+        (pin "11") 
+        (pinfunction "GP12/SPI1_RX/I2C0_SDA/UART0_TX") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "12") 
+        (pinfunction "Dout") 
+        (pintype "output"))) 
+    (net 
+      (code "30") 
+      (name "/SPI_MOSI") 
+      (node 
+        (ref "U1") 
+        (pin "8") 
+        (pinfunction "GP15/SPI1_TX/I2C1_SCL") 
+        (pintype "bidirectional")) 
+      (node 
+        (ref "U3") 
+        (pin "11") 
+        (pinfunction "Din") 
+        (pintype "input"))) 
+    (net 
+      (code "31") 
+      (name "GND") 
+      (node 
+        (ref "C1") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C11") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C12") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C13") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C14") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C15") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C16") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C2") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C3") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C4") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C7") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C8") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "C9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "J1") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J2") 
+        (pin "1") 
+        (pinfunction "Pin_1") 
+        (pintype "passive")) 
+      (node 
+        (ref "J3") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R11") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV2") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV3") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV4") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW25") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "TP1") 
+        (pin "1") 
+        (pinfunction "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U1") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_out")) 
+      (node 
+        (ref "U2") 
+        (pin "4") 
+        (pinfunction "V-") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "14") 
+        (pinfunction "AGND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U3") 
+        (pin "9") 
+        (pinfunction "DGND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U4") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in")) 
+      (node 
+        (ref "U5") 
+        (pin "2") 
+        (pinfunction "GND") 
+        (pintype "power_in"))) 
+    (net 
+      (code "32") 
+      (name "Net-(D1-A)") 
+      (node 
+        (ref "D1") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "33") 
+      (name "Net-(D2-A)") 
+      (node 
+        (ref "D2") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "34") 
+      (name "Net-(D3-A)") 
+      (node 
+        (ref "D3") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "35") 
+      (name "Net-(D4-A)") 
+      (node 
+        (ref "D4") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW4") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "36") 
+      (name "Net-(D5-A)") 
+      (node 
+        (ref "D5") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW5") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "37") 
+      (name "Net-(D6-A)") 
+      (node 
+        (ref "D6") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW6") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "38") 
+      (name "Net-(D7-A)") 
+      (node 
+        (ref "D7") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW7") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "39") 
+      (name "Net-(D8-A)") 
+      (node 
+        (ref "D8") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW8") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "40") 
+      (name "Net-(D9-A)") 
+      (node 
+        (ref "D9") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW9") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "41") 
+      (name "Net-(D10-A)") 
+      (node 
+        (ref "D10") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW10") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "42") 
+      (name "Net-(D11-A)") 
+      (node 
+        (ref "D11") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW11") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "43") 
+      (name "Net-(D12-A)") 
+      (node 
+        (ref "D12") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW12") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "44") 
+      (name "Net-(D13-A)") 
+      (node 
+        (ref "D13") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW13") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "45") 
+      (name "Net-(D14-A)") 
+      (node 
+        (ref "D14") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW14") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "46") 
+      (name "Net-(D15-A)") 
+      (node 
+        (ref "D15") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW15") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "47") 
+      (name "Net-(D16-A)") 
+      (node 
+        (ref "D16") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW16") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "48") 
+      (name "Net-(D17-A)") 
+      (node 
+        (ref "D17") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW17") 
+        (pin "3") 
+        (pinfunction "C") 
+        (pintype "passive"))) 
+    (net 
+      (code "49") 
+      (name "Net-(D18-A)") 
+      (node 
+        (ref "D18") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW18") 
+        (pin "3") 
+        (pinfunction "C") 
+        (pintype "passive"))) 
+    (net 
+      (code "50") 
+      (name "Net-(D19-A)") 
+      (node 
+        (ref "D19") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW19") 
+        (pin "3") 
+        (pinfunction "C") 
+        (pintype "passive"))) 
+    (net 
+      (code "51") 
+      (name "Net-(D20-A)") 
+      (node 
+        (ref "D20") 
+        (pin "2") 
+        (pinfunction "A") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW20") 
+        (pin "3") 
+        (pinfunction "C") 
+        (pintype "passive"))) 
+    (net 
+      (code "52") 
+      (name "Net-(D21-K)") 
+      (node 
+        (ref "D21") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC1") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "output"))) 
+    (net 
+      (code "53") 
+      (name "Net-(D22-K)") 
+      (node 
+        (ref "D22") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC2") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "output"))) 
+    (net 
+      (code "54") 
+      (name "Net-(D23-K)") 
+      (node 
+        (ref "D23") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC3") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "output"))) 
+    (net 
+      (code "55") 
+      (name "Net-(D24-K)") 
+      (node 
+        (ref "D24") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC4") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "output"))) 
+    (net 
+      (code "56") 
+      (name "Net-(D25-K)") 
+      (node 
+        (ref "D25") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC1") 
+        (pin "3") 
+        (pinfunction "B") 
+        (pintype "output"))) 
+    (net 
+      (code "57") 
+      (name "Net-(D26-K)") 
+      (node 
+        (ref "D26") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC2") 
+        (pin "3") 
+        (pinfunction "B") 
+        (pintype "output"))) 
+    (net 
+      (code "58") 
+      (name "Net-(D27-K)") 
+      (node 
+        (ref "D27") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC3") 
+        (pin "3") 
+        (pinfunction "B") 
+        (pintype "output"))) 
+    (net 
+      (code "59") 
+      (name "Net-(D28-K)") 
+      (node 
+        (ref "D28") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC4") 
+        (pin "3") 
+        (pinfunction "B") 
+        (pintype "output"))) 
+    (net 
+      (code "60") 
+      (name "Net-(D29-K)") 
+      (node 
+        (ref "D29") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC5") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "output"))) 
+    (net 
+      (code "61") 
+      (name "Net-(D30-K)") 
+      (node 
+        (ref "D30") 
+        (pin "1") 
+        (pinfunction "K") 
+        (pintype "passive")) 
+      (node 
+        (ref "ENC5") 
+        (pin "3") 
+        (pinfunction "B") 
+        (pintype "output"))) 
+    (net 
+      (code "62") 
+      (name "Net-(J1-Pin_2)") 
+      (node 
+        (ref "J1") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R6") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U4") 
+        (pin "3") 
+        (pinfunction "Out") 
+        (pintype "output"))) 
+    (net 
+      (code "63") 
+      (name "Net-(J1-Pin_3)") 
+      (node 
+        (ref "J1") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "R7") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U5") 
+        (pin "3") 
+        (pinfunction "Out") 
+        (pintype "output"))) 
+    (net 
+      (code "64") 
+      (name "Net-(J2-Pin_2)") 
+      (node 
+        (ref "J2") 
+        (pin "2") 
+        (pinfunction "Pin_2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R20") 
+        (pin "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "65") 
+      (name "Net-(J3-Pin_3)") 
+      (node 
+        (ref "J3") 
+        (pin "3") 
+        (pinfunction "Pin_3") 
+        (pintype "passive")) 
+      (node 
+        (ref "R1") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "66") 
+      (name "Net-(J3-Pin_4)") 
+      (node 
+        (ref "J3") 
+        (pin "4") 
+        (pinfunction "Pin_4") 
+        (pintype "passive")) 
+      (node 
+        (ref "R2") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "67") 
+      (name "Net-(J3-Pin_5)") 
+      (node 
+        (ref "J3") 
+        (pin "5") 
+        (pinfunction "Pin_5") 
+        (pintype "passive")) 
+      (node 
+        (ref "R3") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "68") 
+      (name "Net-(J3-Pin_6)") 
+      (node 
+        (ref "J3") 
+        (pin "6") 
+        (pinfunction "Pin_6") 
+        (pintype "passive")) 
+      (node 
+        (ref "R4") 
+        (pin "1") 
+        (pintype "passive"))) 
+    (net 
+      (code "69") 
+      (name "Net-(R5-Pad2)") 
+      (node 
+        (ref "R5") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "SW25") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "70") 
+      (name "Net-(R16-Pad2)") 
+      (node 
+        (ref "R16") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV4") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "71") 
+      (name "Net-(R17-Pad2)") 
+      (node 
+        (ref "R17") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV3") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "72") 
+      (name "Net-(R18-Pad2)") 
+      (node 
+        (ref "R18") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV2") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "73") 
+      (name "Net-(R19-Pad2)") 
+      (node 
+        (ref "R19") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "RV1") 
+        (pin "2") 
+        (pinfunction "2") 
+        (pintype "passive"))) 
+    (net 
+      (code "74") 
+      (name "Net-(U2A-+)") 
+      (node 
+        (ref "R12") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R8") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R9") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "3") 
+        (pinfunction "+") 
+        (pintype "input"))) 
+    (net 
+      (code "75") 
+      (name "Net-(U2A--)") 
+      (node 
+        (ref "R6") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "2") 
+        (pinfunction "-") 
+        (pintype "input"))) 
+    (net 
+      (code "76") 
+      (name "Net-(U2B-+)") 
+      (node 
+        (ref "R10") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "R11") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "R13") 
+        (pin "1") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "5") 
+        (pinfunction "+") 
+        (pintype "input"))) 
+    (net 
+      (code "77") 
+      (name "Net-(U2B--)") 
+      (node 
+        (ref "R7") 
+        (pin "2") 
+        (pintype "passive")) 
+      (node 
+        (ref "U2") 
+        (pin "6") 
+        (pinfunction "-") 
+        (pintype "input"))) 
+    (net 
+      (code "78") 
+      (name "unconnected-(SW17-A-Pad1)") 
+      (node 
+        (ref "SW17") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "79") 
+      (name "unconnected-(SW18-A-Pad1)") 
+      (node 
+        (ref "SW18") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "80") 
+      (name "unconnected-(SW19-A-Pad1)") 
+      (node 
+        (ref "SW19") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive+no_connect"))) 
+    (net 
+      (code "81") 
+      (name "unconnected-(SW20-A-Pad1)") 
+      (node 
+        (ref "SW20") 
+        (pin "1") 
+        (pinfunction "A") 
+        (pintype "passive+no_connect")))))
